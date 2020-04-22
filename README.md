@@ -1,5 +1,3 @@
 # webPreoject
 First web application
-<?php 
-echo "hello world";
-?>
+hello world
